@@ -1,0 +1,6 @@
+{
+	"name": "ox-commander",
+	"version-date": "2024-10-07",
+	"port-version": 1,
+	"description": "Header-only C++ library for parsing and executing strings command."
+}
